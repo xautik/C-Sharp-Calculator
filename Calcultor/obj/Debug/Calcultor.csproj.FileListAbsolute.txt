@@ -1,0 +1,36 @@
+A:\Project Files\Visual Studio\Calcultor\Calcultor\bin\Debug\Calcultor.exe.config
+A:\Project Files\Visual Studio\Calcultor\Calcultor\bin\Debug\Calcultor.exe
+A:\Project Files\Visual Studio\Calcultor\Calcultor\bin\Debug\Calcultor.pdb
+A:\Project Files\Visual Studio\Calcultor\Calcultor\obj\Debug\Calcultor.csprojResolveAssemblyReference.cache
+A:\Project Files\Visual Studio\Calcultor\Calcultor\obj\Debug\Calcultor.Form1.resources
+A:\Project Files\Visual Studio\Calcultor\Calcultor\obj\Debug\Calcultor.Properties.Resources.resources
+A:\Project Files\Visual Studio\Calcultor\Calcultor\obj\Debug\Calcultor.csproj.GenerateResource.Cache
+A:\Project Files\Visual Studio\Calcultor\Calcultor\obj\Debug\Calcultor.exe
+A:\Project Files\Visual Studio\Calcultor\Calcultor\obj\Debug\Calcultor.pdb
+A:\Project Files\Visual Studio\Calcultor - Copy\Calcultor\bin\Debug\Calcultor.exe.config
+A:\Project Files\Visual Studio\Calcultor - Copy\Calcultor\obj\Debug\Calcultor.exe
+A:\Project Files\Visual Studio\Calcultor - Copy\Calcultor\obj\Debug\Calcultor.pdb
+A:\Project Files\Visual Studio\Calcultor - Copy\Calcultor\bin\Debug\Calcultor.exe
+A:\Project Files\Visual Studio\Calcultor - Copy\Calcultor\bin\Debug\Calcultor.pdb
+A:\Project Files\Visual Studio\Calcultor - Copy\Calcultor\obj\Debug\Calcultor.csprojResolveAssemblyReference.cache
+A:\Project Files\Visual Studio\Calcultor - Copy\Calcultor\obj\Debug\Calcultor.Form1.resources
+A:\Project Files\Visual Studio\Calcultor - Copy\Calcultor\obj\Debug\Calcultor.Properties.Resources.resources
+A:\Project Files\Visual Studio\Calcultor - Copy\Calcultor\obj\Debug\Calcultor.csproj.GenerateResource.Cache
+A:\Project Files\Visual Studio\Calcultor - Big\Calcultor\bin\Debug\Calcultor.exe.config
+A:\Project Files\Visual Studio\Calcultor - Big\Calcultor\obj\Debug\Calcultor.exe
+A:\Project Files\Visual Studio\Calcultor - Big\Calcultor\obj\Debug\Calcultor.pdb
+A:\Project Files\Visual Studio\Calcultor - Big\Calcultor\bin\Debug\Calcultor.exe
+A:\Project Files\Visual Studio\Calcultor - Big\Calcultor\bin\Debug\Calcultor.pdb
+A:\Project Files\Visual Studio\Calcultor - Big\Calcultor\obj\Debug\Calcultor.csprojResolveAssemblyReference.cache
+A:\Project Files\Visual Studio\Calcultor - Big\Calcultor\obj\Debug\Calcultor.Form1.resources
+A:\Project Files\Visual Studio\Calcultor - Big\Calcultor\obj\Debug\Calcultor.Properties.Resources.resources
+A:\Project Files\Visual Studio\Calcultor - Big\Calcultor\obj\Debug\Calcultor.csproj.GenerateResource.Cache
+A:\Project Files\Visual Studio\Calculator - Big\Calcultor\bin\Debug\Calcultor.exe.config
+A:\Project Files\Visual Studio\Calculator - Big\Calcultor\obj\Debug\Calcultor.exe
+A:\Project Files\Visual Studio\Calculator - Big\Calcultor\obj\Debug\Calcultor.pdb
+A:\Project Files\Visual Studio\Calculator - Big\Calcultor\bin\Debug\Calcultor.exe
+A:\Project Files\Visual Studio\Calculator - Big\Calcultor\bin\Debug\Calcultor.pdb
+A:\Project Files\Visual Studio\Calculator - Big\Calcultor\obj\Debug\Calcultor.csprojResolveAssemblyReference.cache
+A:\Project Files\Visual Studio\Calculator - Big\Calcultor\obj\Debug\Calcultor.Form1.resources
+A:\Project Files\Visual Studio\Calculator - Big\Calcultor\obj\Debug\Calcultor.Properties.Resources.resources
+A:\Project Files\Visual Studio\Calculator - Big\Calcultor\obj\Debug\Calcultor.csproj.GenerateResource.Cache
